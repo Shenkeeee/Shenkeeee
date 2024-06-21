@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">- 🔭 Looking for opportunities<br>- 📚 Main focus is TS, tech stack listed<br>- ⚡ In my free time I play board games</p>
+<p align="left">- 🔭 Looking for opportunities<br>- 📚 Main focus is TS, tech stack listed<br>- 🔗 <a href="https://shenkeeee.github.io">My Projects</a></p>
 
 ###
 
