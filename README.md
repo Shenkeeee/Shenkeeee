@@ -5,7 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">- 🔭 Looking for opportunities<br>- 📚 Main focus is TS, tech stack listed<br>- 🔗 <a href="https://shenkeeee.github.io">My Projects</a></p>
+<p align="left">- 🔭 Looking for opportunities<br>- 🔗 <a href="https://shenkeeee.github.io">My Projects</a></p>
 
 ###
 
@@ -32,16 +32,6 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shenkeeee&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
