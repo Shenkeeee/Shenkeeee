@@ -1,5 +1,3 @@
-<h1 align="center">👋</h1>
-
 <h3 align="left"><a href="https://shenkeeee.github.io">My Projects</a></h3>
 
 <h3>Languages and Tools</h3>
