@@ -1,4 +1,5 @@
 <h3 align="left"><a href="https://shenkeeee.github.io">My Projects</a></h3>
+<h3 align="left"><a href="https://medium.com/@mate.subicz">My Medium Articles</a></h3>
 
 <h3>Languages and Tools</h3>
 <div align="left">
